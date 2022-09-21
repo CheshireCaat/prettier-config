@@ -1,0 +1,15 @@
+{
+  "name": "@cheshire-caat/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for the personal projects",
+  "repository": "CheshireCaat/prettier-config",
+  "keywords": [
+    "prettier"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "author": "CheshireCaat",
+  "main": "index.js"
+}
